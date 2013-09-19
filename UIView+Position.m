@@ -5,7 +5,7 @@
 //  Copyright 2010 Bynomial.
 //
 
-#import "UIView+position.h"
+#import "UIView+Position.h"
 
 
 @implementation UIView (Position)
